@@ -1,8 +1,11 @@
 {
-  "utenti": {
-    "aldo123" : {
-       "name": "Aldo",
-      "surname": "Aldi"
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
     }
+  ],
+  "profile": {
+    "name": "typicode"
   }
 }
