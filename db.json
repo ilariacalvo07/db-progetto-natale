@@ -1,8 +1,8 @@
 {
-  "utenti": [
+  "utenti": {
     "aldo123" : {
        "name": "Aldo",
       "surname": "Aldi",
     }
-  ]
+  }
 }
