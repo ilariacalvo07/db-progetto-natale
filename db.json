@@ -1,11 +1,63 @@
 {
-  "posts": [
+  "Jobs": [
     {
-      "id": 1,
-      "title": "hello"
+      "job": {
+        "company": "Tech Solutions Srl",
+        "jobType": "Full Stack Developer",
+        "place": "Milano, Lombardia",
+        "timeSlot": "Full Time",
+        "workingDays": "Lunedì - Venerdì",
+        "salary": "2.500 - 2.916 € ",
+        "description": "Tech Solutions Srl è un'azienda leader nel settore dello sviluppo software e delle soluzioni digitali innovative, con una forte attenzione alla qualità e all'innovazione tecnologica. Stiamo cercando un Full Stack Developer esperto per unirsi al nostro team e contribuire alla creazione di applicazioni web di nuova generazione. Il candidato ideale si occuperà di progettare, sviluppare e manutenere soluzioni software moderne, garantendo prestazioni elevate, scalabilità e sicurezza. Lavorerai in un ambiente collaborativo con sviluppatori, designer e product manager per implementare funzionalità innovative e migliorare costantemente i nostri prodotti digitali. La nostra azienda offre un ambiente dinamico e stimolante, con opportunità di crescita professionale e accesso a progetti all'avanguardia nel panorama tecnologico. Se sei appassionato di sviluppo software e desideri lavorare in un contesto che valorizza la creatività e l'impegno, ti invitiamo a candidarti.",
+        "contractType": "Indeterminato",
+        "degreeRequired": "Laurea in Informatica o equivalente",
+        "experienceRequired": "2 anni di esperienza in sviluppo web",
+        "otherQualificationsRequired": [
+          "Conoscenza di HTML, CSS, JavaScript",
+          "Esperienza con framework come React o Angular",
+          "Competenze in programmazione lato server (Node.js, PHP o simili)",
+          "Capacità di lavorare in team",
+          "Buone capacità comunicative e problem-solving"
+        ],
+        "workFromHome": true,
+        "companyContacts": [
+          {
+            "email": "hr@techsolutions.it",
+            "telephone": "+39 02 12345678"
+          }
+        ],
+        "peopleApplied": 15,
+        "publicationDate": "2024-12-29"
+      }
+    },
+    {
+      "job": {
+        "company": "Studio Legale Rossi",
+        "jobType": "Amministrazione",
+        "place": "Roma, Lazio",
+        "timeSlot": "Full Time",
+        "workingDays": "Lunedì - Venerdì",
+        "salary": "1.600 € ",
+        "description": "Lo Studio Legale Rossi è una realtà consolidata e rinomata nel settore legale, specializzata in diritto civile e commerciale. Cerchiamo un Assistente Amministrativo che svolga un ruolo cruciale nel supportare l'organizzazione delle attività interne e la gestione della documentazione legale. La figura selezionata si occuperà di archiviazione, gestione degli appuntamenti, comunicazioni con clienti e fornitori, oltre a fornire supporto operativo ai legali dello studio. Lavorerai in un ambiente professionale e collaborativo, dove l'attenzione ai dettagli e la precisione sono valori fondamentali. Offriamo un contesto lavorativo stabile e stimolante, con la possibilità di acquisire esperienza significativa nel settore legale. Questa posizione rappresenta un'ottima opportunità per chi desidera crescere professionalmente in un ambiente dinamico e strutturato.",
+        "contractType": "Determinato",
+        "degreeRequired": "Diploma di scuola superiore",
+        "experienceRequired": "1 anno di esperienza in amministrazione",
+        "otherQualificationsRequired": [
+          "Buona conoscenza del pacchetto Office",
+          "Capacità organizzative e di gestione del tempo",
+          "Precisione e attenzione ai dettagli",
+          "Ottime doti relazionali e di comunicazione"
+        ],
+        "workFromHome": false,
+        "companyContacts": [
+          {
+            "email": "info@studiorossi.it",
+            "telephone": "+39 06 98765432"
+          }
+        ],
+        "peopleApplied": 8,
+        "publicationDate": "2024-12-28"
+      }
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
