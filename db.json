@@ -1,7 +1,6 @@
 {
   "Jobs": [
     {
-      "job": {
         "company": "Tech Solutions Srl",
         "jobType": "Full Stack Developer",
         "place": "Milano, Lombardia",
@@ -28,10 +27,8 @@
         ],
         "peopleApplied": 15,
         "publicationDate": "2024-12-29"
-      }
     },
     {
-      "job": {
         "company": "Studio Legale Rossi",
         "jobType": "Amministrazione",
         "place": "Roma, Lazio",
@@ -57,7 +54,6 @@
         ],
         "peopleApplied": 8,
         "publicationDate": "2024-12-28"
-      }
     }
   ]
 }
