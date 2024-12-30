@@ -1,59 +1,265 @@
 {
   "Jobs": [
     {
-        "company": "Tech Solutions Srl",
-        "jobType": "Full Stack Developer",
-        "place": "Milano, Lombardia",
-        "timeSlot": "Full Time",
-        "workingDays": "Lunedì - Venerdì",
-        "salary": "2.500 - 2.916 € ",
-        "description": "Tech Solutions Srl è un'azienda leader nel settore dello sviluppo software e delle soluzioni digitali innovative, con una forte attenzione alla qualità e all'innovazione tecnologica. Stiamo cercando un Full Stack Developer esperto per unirsi al nostro team e contribuire alla creazione di applicazioni web di nuova generazione. Il candidato ideale si occuperà di progettare, sviluppare e manutenere soluzioni software moderne, garantendo prestazioni elevate, scalabilità e sicurezza. Lavorerai in un ambiente collaborativo con sviluppatori, designer e product manager per implementare funzionalità innovative e migliorare costantemente i nostri prodotti digitali. La nostra azienda offre un ambiente dinamico e stimolante, con opportunità di crescita professionale e accesso a progetti all'avanguardia nel panorama tecnologico. Se sei appassionato di sviluppo software e desideri lavorare in un contesto che valorizza la creatività e l'impegno, ti invitiamo a candidarti.",
-        "contractType": "Indeterminato",
-        "degreeRequired": "Laurea in Informatica o equivalente",
-        "experienceRequired": "2 anni di esperienza in sviluppo web",
-        "otherQualificationsRequired": [
-          "Conoscenza di HTML, CSS, JavaScript",
-          "Esperienza con framework come React o Angular",
-          "Competenze in programmazione lato server (Node.js, PHP o simili)",
-          "Capacità di lavorare in team",
-          "Buone capacità comunicative e problem-solving"
-        ],
-        "workFromHome": true,
-        "companyContacts": [
-          {
-            "email": "hr@techsolutions.it",
-            "telephone": "+39 02 12345678"
-          }
-        ],
-        "peopleApplied": 15,
-        "publicationDate": "2024-12-29"
+      "company": "EcoSolutions",
+      "jobType": "Project Manager",
+      "place": "Roma, Lazio",
+      "timeSlot": "Full Time",
+      "workingDays": "Lunedì - Venerdì",
+      "salary": "3.500 €",
+      "description": "Responsabile per la gestione di progetti sostenibili nel settore energetico.",
+      "contractType": "Indeterminato",
+      "degreeRequired": "Laurea in Ingegneria Gestionale",
+      "experienceRequired": "5 anni di esperienza nella gestione progetti",
+      "otherQualificationsRequired": [
+        "Capacità di leadership",
+        "Conoscenza di metodologie Agile",
+        "Ottime doti comunicative"
+      ],
+      "workFromHome": true,
+      "companyContacts": [
+        {
+          "email": "careers@ecosolutions.it",
+          "telephone": "+39 06 12345678"
+        }
+      ],
+      "peopleApplied": "15",
+      "publicationDate": "2024-12-20"
     },
     {
-        "company": "Studio Legale Rossi",
-        "jobType": "Amministrazione",
-        "place": "Roma, Lazio",
-        "timeSlot": "Full Time",
-        "workingDays": "Lunedì - Venerdì",
-        "salary": "1.600 € ",
-        "description": "Lo Studio Legale Rossi è una realtà consolidata e rinomata nel settore legale, specializzata in diritto civile e commerciale. Cerchiamo un Assistente Amministrativo che svolga un ruolo cruciale nel supportare l'organizzazione delle attività interne e la gestione della documentazione legale. La figura selezionata si occuperà di archiviazione, gestione degli appuntamenti, comunicazioni con clienti e fornitori, oltre a fornire supporto operativo ai legali dello studio. Lavorerai in un ambiente professionale e collaborativo, dove l'attenzione ai dettagli e la precisione sono valori fondamentali. Offriamo un contesto lavorativo stabile e stimolante, con la possibilità di acquisire esperienza significativa nel settore legale. Questa posizione rappresenta un'ottima opportunità per chi desidera crescere professionalmente in un ambiente dinamico e strutturato.",
-        "contractType": "Determinato",
-        "degreeRequired": "Diploma di scuola superiore",
-        "experienceRequired": "1 anno di esperienza in amministrazione",
-        "otherQualificationsRequired": [
-          "Buona conoscenza del pacchetto Office",
-          "Capacità organizzative e di gestione del tempo",
-          "Precisione e attenzione ai dettagli",
-          "Ottime doti relazionali e di comunicazione"
-        ],
-        "workFromHome": false,
-        "companyContacts": [
-          {
-            "email": "info@studiorossi.it",
-            "telephone": "+39 06 98765432"
-          }
-        ],
-        "peopleApplied": 8,
-        "publicationDate": "2024-12-28"
+      "company": "Foodies",
+      "jobType": "Chef",
+      "place": "Milano, Lombardia",
+      "timeSlot": "Full Time",
+      "workingDays": "Martedì - Domenica",
+      "salary": "2.800 €",
+      "description": "Preparazione di piatti gourmet in un ristorante di lusso.",
+      "contractType": "Indeterminato",
+      "degreeRequired": "Diploma di Scuola Alberghiera",
+      "experienceRequired": "3 anni di esperienza come chef",
+      "otherQualificationsRequired": [
+        "Creatività culinaria",
+        "Capacità di lavorare sotto pressione",
+        "Conoscenza di cucina internazionale"
+      ],
+      "workFromHome": false,
+      "companyContacts": [
+        {
+          "email": "info@foodies.it",
+          "telephone": "+39 02 23456789"
+        }
+      ],
+      "peopleApplied": "10",
+      "publicationDate": "2024-12-18"
+    },
+    {
+      "company": "EdTech Innovations",
+      "jobType": "Software Developer",
+      "place": "Torino, Piemonte",
+      "timeSlot": "Full Time",
+      "workingDays": "Lunedì - Venerdì",
+      "salary": "2.800 €",
+      "description": "Sviluppo di piattaforme educative digitali.",
+      "contractType": "Indeterminato",
+      "degreeRequired": "Laurea in Informatica",
+      "experienceRequired": "2 anni di esperienza nello sviluppo software",
+      "otherQualificationsRequired": [
+        "Conoscenza di JavaScript",
+        "Esperienza con React e Node.js",
+        "Capacità di lavorare in team"
+      ],
+      "workFromHome": true,
+      "companyContacts": [
+        {
+          "email": "jobs@edtechinnovations.it",
+          "telephone": "+39 011 9876543"
+        }
+      ],
+      "peopleApplied": "12",
+      "publicationDate": "2024-12-17"
+    },
+    {
+      "company": "BankSecure",
+      "jobType": "Consulente Finanziario",
+      "place": "Napoli, Campania",
+      "timeSlot": "Full Time",
+      "workingDays": "Lunedì - Venerdì",
+      "salary": "2.500 €",
+      "description": "Consulenza personalizzata per clienti di alto profilo.",
+      "contractType": "Indeterminato",
+      "degreeRequired": "Laurea in Economia",
+      "experienceRequired": "4 anni di esperienza nel settore bancario",
+      "otherQualificationsRequired": [
+        "Abilità di gestione portafogli",
+        "Conoscenza di prodotti finanziari",
+        "Ottime doti relazionali"
+      ],
+      "workFromHome": false,
+      "companyContacts": [
+        {
+          "email": "careers@banksecure.it",
+          "telephone": "+39 081 2345678"
+        }
+      ],
+      "peopleApplied": "8",
+      "publicationDate": "2024-12-16"
+    },
+    {
+      "company": "InnovArt",
+      "jobType": "Graphic Designer",
+      "place": "Bologna, Emilia-Romagna",
+      "timeSlot": "Part Time",
+      "workingDays": "Lunedì, Mercoledì, Venerdì",
+      "salary": "1.600 €",
+      "description": "Creazione di contenuti grafici per campagne pubblicitarie.",
+      "contractType": "Determinato",
+      "degreeRequired": "Diploma in Design Grafico",
+      "experienceRequired": "2 anni di esperienza nel settore",
+      "otherQualificationsRequired": [
+        "Conoscenza di Photoshop e Illustrator",
+        "Creatività",
+        "Ottime doti organizzative"
+      ],
+      "workFromHome": true,
+      "companyContacts": [
+        {
+          "email": "jobs@innovart.it",
+          "telephone": "+39 051 3456789"
+        }
+      ],
+      "peopleApplied": "5",
+      "publicationDate": "2024-12-15"
+    },
+    {
+      "company": "HealthCare Solutions",
+      "jobType": "Infermiera",
+      "place": "Firenze, Toscana",
+      "timeSlot": "Full Time",
+      "workingDays": "Lunedì - Venerdì",
+      "salary": "2.000 €",
+      "description": "Supporto ai pazienti in un centro medico di eccellenza.",
+      "contractType": "Determinato",
+      "degreeRequired": "Diploma in Infermieristica",
+      "experienceRequired": "3 anni di esperienza in ambito sanitario",
+      "otherQualificationsRequired": [
+        "Empatia",
+        "Ottime doti organizzative",
+        "Conoscenza di strumenti clinici avanzati"
+      ],
+      "workFromHome": false,
+      "companyContacts": [
+        {
+          "email": "recruitment@healthcare.it",
+          "telephone": "+39 055 9876543"
+        }
+      ],
+      "peopleApplied": "18",
+      "publicationDate": "2024-12-14"
+    },
+    {
+      "company": "Smart Logistics",
+      "jobType": "Addetto alla Logistica",
+      "place": "Verona, Veneto",
+      "timeSlot": "Full Time",
+      "workingDays": "Lunedì - Venerdì",
+      "salary": "2.200 €",
+      "description": "Gestione e ottimizzazione dei flussi logistici aziendali.",
+      "contractType": "Indeterminato",
+      "degreeRequired": "Diploma in Logistica",
+      "experienceRequired": "2 anni di esperienza nel settore",
+      "otherQualificationsRequired": [
+        "Capacità di pianificazione",
+        "Conoscenza di software gestionali",
+        "Ottime capacità di problem-solving"
+      ],
+      "workFromHome": false,
+      "companyContacts": [
+        {
+          "email": "logistics@smartlogistics.it",
+          "telephone": "+39 045 7654321"
+        }
+      ],
+      "peopleApplied": "20",
+      "publicationDate": "2024-12-13"
+    },
+    {
+      "company": "Luxury Travel Co.",
+      "jobType": "Consulente di Viaggio",
+      "place": "Venezia, Veneto",
+      "timeSlot": "Part Time",
+      "workingDays": "Lunedì, Mercoledì, Venerdì",
+      "salary": "1.800 €",
+      "description": "Organizzazione di viaggi di lusso per clienti internazionali.",
+      "contractType": "Determinato",
+      "degreeRequired": "Diploma in Turismo",
+      "experienceRequired": "2 anni di esperienza nel settore",
+      "otherQualificationsRequired": [
+        "Conoscenza fluente dell'inglese",
+        "Ottime doti relazionali",
+        "Passione per i viaggi"
+      ],
+      "workFromHome": false,
+      "companyContacts": [
+        {
+          "email": "travel@luxurytravelco.it",
+          "telephone": "+39 041 2345678"
+        }
+      ],
+      "peopleApplied": "9",
+      "publicationDate": "2024-12-12"
+    },
+    {
+      "company": "Future Tech",
+      "jobType": "Data Scientist",
+      "place": "Pisa, Toscana",
+      "timeSlot": "Full Time",
+      "workingDays": "Lunedì - Venerdì",
+      "salary": "3.200 €",
+      "description": "Analisi e gestione di dati complessi per progetti innovativi.",
+      "contractType": "Indeterminato",
+      "degreeRequired": "Laurea in Data Science",
+      "experienceRequired": "3 anni di esperienza in analisi dati",
+      "otherQualificationsRequired": [
+        "Conoscenza avanzata di Python e Machine Learning",
+        "Capacità di lavorare in team interdisciplinari",
+        "Ottime competenze di comunicazione"
+      ],
+      "workFromHome": true,
+      "companyContacts": [
+        {
+          "email": "datascience@futuretech.it",
+          "telephone": "+39 050 7654321"
+        }
+      ],
+      "peopleApplied": "22",
+      "publicationDate": "2024-12-11"
+    },
+    {
+      "company": "Wellness Hub",
+      "jobType": "Personal Trainer",
+      "place": "Rimini, Emilia-Romagna",
+      "timeSlot": "Part Time",
+      "workingDays": "Lunedì, Mercoledì, Venerdì",
+      "salary": "1.600 €",
+      "description": "Assistenza personalizzata per clienti presso il nostro centro fitness.",
+      "contractType": "Determinato",
+      "degreeRequired": "Diploma in Scienze Motorie",
+      "experienceRequired": "1 anno di esperienza nel settore",
+      "otherQualificationsRequired": [
+        "Ottima forma fisica",
+        "Empatia e motivazione",
+        "Conoscenza di tecniche di allenamento"
+      ],
+      "workFromHome": false,
+      "companyContacts": [
+        {
+          "email": "trainer@wellnesshub.it",
+          "telephone": "+39 0541 567890"
+        }
+      ],
+      "peopleApplied": "12",
+      "publicationDate": "2024-12-10"
     }
   ]
 }
+
