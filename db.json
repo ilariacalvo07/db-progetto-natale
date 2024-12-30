@@ -260,5 +260,135 @@
       "peopleApplied": "12",
       "publicationDate": "2024-12-10"
     }
+    {
+      "company": "Tech Innovators",
+      "jobType": "Software Developer",
+      "place": "Genova, Liguria",
+      "timeSlot": "Full Time",
+      "workingDays": "Lunedì - Venerdì",
+      "salary": "3.000 €",
+      "description": "Progettazione e sviluppo di applicazioni su larga scala.",
+      "contractType": "Indeterminato",
+      "degreeRequired": "Laurea in Informatica o simile",
+      "experienceRequired": "3 anni di esperienza nello sviluppo software",
+      "otherQualificationsRequired": [
+        "Conoscenza di Python e Django",
+        "Esperienza con sistemi distribuiti",
+        "Buone capacità di problem-solving"
+      ],
+      "workFromHome": true,
+      "companyContacts": [
+        {
+          "email": "careers@techinnovators.it",
+          "telephone": "+39 010 2345678"
+        }
+      ],
+      "peopleApplied": "16",
+      "publicationDate": "2024-12-25"
+    },
+    {
+      "company": "Global Bank",
+      "jobType": "Consulente Finanziario",
+      "place": "Bari, Puglia",
+      "timeSlot": "Full Time",
+      "workingDays": "Lunedì - Venerdì",
+      "salary": "2.700 €",
+      "description": "Consulenza su investimenti e gestione patrimoniale per clienti privati.",
+      "contractType": "Indeterminato",
+      "degreeRequired": "Laurea in Economia o Finanza",
+      "experienceRequired": "5 anni di esperienza nel settore finanziario",
+      "otherQualificationsRequired": [
+        "Conoscenza approfondita di strumenti finanziari",
+        "Capacità di analisi e pianificazione",
+        "Eccellenti doti relazionali"
+      ],
+      "workFromHome": false,
+      "companyContacts": [
+        {
+          "email": "recruitment@globalbank.it",
+          "telephone": "+39 080 7654321"
+        }
+      ],
+      "peopleApplied": "14",
+      "publicationDate": "2024-12-24"
+    },
+    {
+      "company": "Culinary Delights",
+      "jobType": "Chef",
+      "place": "Palermo, Sicilia",
+      "timeSlot": "Full Time",
+      "workingDays": "Martedì - Sabato",
+      "salary": "2.500 €",
+      "description": "Responsabile della preparazione di piatti creativi in un ristorante rinomato.",
+      "contractType": "Determinato",
+      "degreeRequired": "Diploma di Scuola Alberghiera",
+      "experienceRequired": "4 anni di esperienza come chef",
+      "otherQualificationsRequired": [
+        "Passione per la cucina mediterranea",
+        "Attenzione ai dettagli",
+        "Capacità di lavorare in un team dinamico"
+      ],
+      "workFromHome": false,
+      "companyContacts": [
+        {
+          "email": "jobs@culinarydelights.it",
+          "telephone": "+39 091 1234567"
+        }
+      ],
+      "peopleApplied": "11",
+      "publicationDate": "2024-12-23"
+    },
+    {
+      "company": "Artistic Visions",
+      "jobType": "Graphic Designer",
+      "place": "Trieste, Friuli-Venezia Giulia",
+      "timeSlot": "Part Time",
+      "workingDays": "Martedì, Giovedì, Sabato",
+      "salary": "1.400 €",
+      "description": "Creazione di design innovativi per progetti pubblicitari e digitali.",
+      "contractType": "Determinato",
+      "degreeRequired": "Laurea in Design Grafico",
+      "experienceRequired": "2 anni di esperienza nel settore",
+      "otherQualificationsRequired": [
+        "Competenza con software Adobe Suite",
+        "Abilità di lavoro autonomo",
+        "Creatività e attenzione al dettaglio"
+      ],
+      "workFromHome": true,
+      "companyContacts": [
+        {
+          "email": "hr@artisticvisions.it",
+          "telephone": "+39 040 7654321"
+        }
+      ],
+      "peopleApplied": "7",
+      "publicationDate": "2024-12-22"
+    },
+    {
+      "company": "Green Horizons",
+      "jobType": "Project Manager",
+      "place": "Cagliari, Sardegna",
+      "timeSlot": "Full Time",
+      "workingDays": "Lunedì - Venerdì",
+      "salary": "3.700 €",
+      "description": "Gestione di progetti sostenibili nel settore ambientale.",
+      "contractType": "Indeterminato",
+      "degreeRequired": "Laurea in Ingegneria Ambientale",
+      "experienceRequired": "5 anni di esperienza nella gestione di progetti",
+      "otherQualificationsRequired": [
+        "Ottime capacità organizzative",
+        "Conoscenza di pratiche sostenibili",
+        "Abilità di leadership"
+      ],
+      "workFromHome": true,
+      "companyContacts": [
+        {
+          "email": "careers@greenhorizons.it",
+          "telephone": "+39 070 9876543"
+        }
+      ],
+      "peopleApplied": "19",
+      "publicationDate": "2024-12-21"
+    }
   ]
 }
