@@ -157,6 +157,32 @@
       "publicationDate": "2024-12-14"
     },
     {
+      "company": "Smart Logistics",
+      "jobType": "Addetto alla Logistica",
+      "place": "Verona, Veneto",
+      "timeSlot": "Full Time",
+      "workingDays": "Lunedì - Venerdì",
+      "salary": "2.200 €",
+      "description": "Gestione e ottimizzazione dei flussi logistici aziendali.",
+      "contractType": "Indeterminato",
+      "degreeRequired": "Diploma in Logistica",
+      "experienceRequired": "2 anni di esperienza nel settore",
+      "otherQualificationsRequired": [
+        "Capacità di pianificazione",
+        "Conoscenza di software gestionali",
+        "Ottime capacità di problem-solving"
+      ],
+      "workFromHome": false,
+      "companyContacts": [
+        {
+          "email": "logistics@smartlogistics.it",
+          "telephone": "+39 045 7654321"
+        }
+      ],
+      "peopleApplied": "20",
+      "publicationDate": "2024-12-13"
+    },
+    {
       "company": "Luxury Travel Co.",
       "jobType": "Consulente di Viaggio",
       "place": "Venezia, Veneto",
@@ -233,84 +259,6 @@
       ],
       "peopleApplied": "12",
       "publicationDate": "2024-12-10"
-    }
-    {
-      "company": "Tech Innovators",
-      "jobType": "Software Developer",
-      "place": "Genova, Liguria",
-      "timeSlot": "Full Time",
-      "workingDays": "Lunedì - Venerdì",
-      "salary": "3.000 €",
-      "description": "Progettazione e sviluppo di applicazioni su larga scala.",
-      "contractType": "Indeterminato",
-      "degreeRequired": "Laurea in Informatica o simile",
-      "experienceRequired": "3 anni di esperienza nello sviluppo software",
-      "otherQualificationsRequired": [
-        "Conoscenza di Python e Django",
-        "Esperienza con sistemi distribuiti",
-        "Buone capacità di problem-solving"
-      ],
-      "workFromHome": true,
-      "companyContacts": [
-        {
-          "email": "careers@techinnovators.it",
-          "telephone": "+39 010 2345678"
-        }
-      ],
-      "peopleApplied": "16",
-      "publicationDate": "2024-12-25"
-    },
-    {
-      "company": "Culinary Delights",
-      "jobType": "Chef",
-      "place": "Palermo, Sicilia",
-      "timeSlot": "Full Time",
-      "workingDays": "Martedì - Sabato",
-      "salary": "2.500 €",
-      "description": "Responsabile della preparazione di piatti creativi in un ristorante rinomato.",
-      "contractType": "Determinato",
-      "degreeRequired": "Diploma di Scuola Alberghiera",
-      "experienceRequired": "4 anni di esperienza come chef",
-      "otherQualificationsRequired": [
-        "Passione per la cucina mediterranea",
-        "Attenzione ai dettagli",
-        "Capacità di lavorare in un team dinamico"
-      ],
-      "workFromHome": false,
-      "companyContacts": [
-        {
-          "email": "jobs@culinarydelights.it",
-          "telephone": "+39 091 1234567"
-        }
-      ],
-      "peopleApplied": "11",
-      "publicationDate": "2024-12-23"
-    },
-    {
-      "company": "Green Horizons",
-      "jobType": "Project Manager",
-      "place": "Cagliari, Sardegna",
-      "timeSlot": "Full Time",
-      "workingDays": "Lunedì - Venerdì",
-      "salary": "3.700 €",
-      "description": "Gestione di progetti sostenibili nel settore ambientale.",
-      "contractType": "Indeterminato",
-      "degreeRequired": "Laurea in Ingegneria Ambientale",
-      "experienceRequired": "5 anni di esperienza nella gestione di progetti",
-      "otherQualificationsRequired": [
-        "Ottime capacità organizzative",
-        "Conoscenza di pratiche sostenibili",
-        "Abilità di leadership"
-      ],
-      "workFromHome": true,
-      "companyContacts": [
-        {
-          "email": "careers@greenhorizons.it",
-          "telephone": "+39 070 9876543"
-        }
-      ],
-      "peopleApplied": "19",
-      "publicationDate": "2024-12-21"
     }
   ]
 }
